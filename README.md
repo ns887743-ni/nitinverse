@@ -1,3 +1,3 @@
 # nitinverse
-My first git repository
+My first git repository,
 author - Nitin singh
